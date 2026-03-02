@@ -8,7 +8,9 @@
 
 ###
 
-<p align="left">Analista de Tecnologia | Engenheiro de Software<br><br>Este é o meu espaço de aprendizado e pesquisa. Encaro o desenvolvimento de software como o trabalho da minha vida, equilibrando a lógica da tecnologia com a criatividade necessária para resolver problemas.<br><br>Status Atual<br>- 💼 Trabalhando como Analista de Tecnologia e Sistemas.<br>- ☕ Estudando ativamente Java e seu ecossistema, além de Next.js.<br><br>“Technology and randomness. Keep on learning.”</p>
+<p align="left">Analista de Tecnologia | Engenheiro de Software<br><br>Este é o meu espaço de aprendizado e pesquisa. Encaro o desenvolvimento de software como o trabalho da minha vida, equilibrando a lógica da tecnologia com a criatividade necessária para resolver problemas.<br><br>Status Atual<br>- 💼 Trabalhando como Analista de Tecnologia e Sistemas.<br>- ☕ Estudando ativamente Java e seu ecossistema, além de Next.js.<br><br></p>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ###
 
@@ -38,17 +40,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/jean-carlos-berg/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:jeancotillo@proton.me" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/je-carlos/je-carlos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/je-carlos/je-carlos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/je-carlos/je-carlos/output/pacman-contribution-graph.svg">
-</picture>
 
 <img src="https://raw.githubusercontent.com/je-carlos/je-carlos/output/snake.svg" alt="Snake animation" />
 
