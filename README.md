@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Analista de Tecnologia | Engenheiro de Software<br><br>Este é o meu espaço de aprendizado e pesquisa. Encaro o desenvolvimento de software como o trabalho da minha vida, equilibrando a lógica da tecnologia com a criatividade necessária para resolver problemas.<br><br>Status Atual<br>- 💼 Trabalhando como Analista de Tecnologia e Sistemas.<br>- ☕ Estudando ativamente Java e seu ecossistema, além de Next.js.<br><br></p>
+<p align="left">Analista de Tecnologia | Engenheiro de Software<br><br>Este é o meu espaço de aprendizado e pesquisa. Encaro o desenvolvimento de software como o trabalho da minha vida, equilibrando a lógica da tecnologia com a criatividade necessária para resolver problemas.<br><br>Status Atual<br>- 💼 Trabalhando como Analista de Tecnologia e Sistemas.<br>- ☕ Fazendo ativamente a graduação de Fullstack Developer da Meta.<br><br></p>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
